@@ -1,0 +1,20 @@
+# MATLAB autosave and backup files
+*.asv
+*.m~
+
+# MATLAB compiled / generated files
+*.mex*
+*.p
+slprj/
+codegen/
+
+# Saved workspaces and figures generated while running the scripts
+*.mat
+*.fig
+
+# GNU Octave
+octave-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
